@@ -1,0 +1,26 @@
+{
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "viewport": "minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no, viewport-fit=cover",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon512_rounded.png",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "any",
+  "display": "fullscreen",
+  "dir": "auto",
+  "lang": "en-US",
+  "name": "GrandQuestAuto - Techno Treasure Hunt",
+  "short_name": "GrandQuestAuto",
+  "description": "We got GrandQuestAuto (GQA) before GTA 6!! 🚀 GQA brings you a never-seen-before adventure, which we like to call a Techno Treasure Hunt."
+}
